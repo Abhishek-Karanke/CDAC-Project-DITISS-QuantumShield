@@ -93,7 +93,8 @@ The architecture is divided into **four security zones**:
 
 ## 🔐 Security Implementation
 
-![Uploading Screenshot (34).png…]()
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/80a676cb-132b-4400-963d-4c6f6607b2e9" />
+
 
 * **Shift‑Left Security** using SonarQube
 * **Container Security** using Trivy
